@@ -1,3 +1,0 @@
-# gitsubtree
-# gitdemo
-# gitdemo
