@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/wangxingxing123654/gitdemo#readme",
   "dependencies": {
-    "create-vite-app": "^1.21.0"
+    "create-vite-app": "^1.21.0",
+    "npmlog": "^7.0.0"
   }
 }
